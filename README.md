@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Ascent Tech Solutions](https://ascentdevs.netlify.app/) and [Code Mentor](https://chat.openai.com/g/g-VDyGaQN1u-code-mentor)
 - 👯 I’m looking to collaborate on [Code Mentor](https://chat.openai.com/g/g-VDyGaQN1u-code-mentor). Please contact me if you have prior experience in GPTs!!!
-- 📫 How to reach me **tandexter98@gmail.com**
+- 📫 Do reach out to me at **tandexter98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
